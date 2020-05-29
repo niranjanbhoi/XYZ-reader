@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Make-Your-App-Material-master.iml" filepath="$PROJECT_DIR$/../Make-Your-App-Material-master.iml" group="Make-Your-App-Material-master" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader.iml" group="Make-Your-App-Material-master/XYZReader" />
+    </modules>
+  </component>
+</project>

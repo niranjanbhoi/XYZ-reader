@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri May 29 05:37:05 IST 2020
+1.base=C\:\\Users\\kimyc\\AndroidStudioProjects\\Make-Your-App-Material-master\\XYZReader\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\kimyc\\AndroidStudioProjects\\Make-Your-App-Material-master\\XYZReader\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=Rosario-Regular.ttf

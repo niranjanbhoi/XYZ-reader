@@ -1,0 +1,4 @@
+#Fri May 29 14:16:55 IST 2020
+base.0=C\:\\Users\\kimyc\\AndroidStudioProjects\\Make-Your-App-Material-master\\XYZReader\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

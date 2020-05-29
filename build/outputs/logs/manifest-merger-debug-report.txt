@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:1-56:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7de31c87f5a399cbb609f779ca903930\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d7f3d4462d353643734fce97bae4c68b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ebfba2c85bd79738ace3cd7428b2736d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\99c4a670b117977a586311335c757a14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\efde5a4e8c1033b6dc11daafe71d929f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\534cfddf6c0401e14712403abc41ec2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f4c64050b98faf2ad7e3785d6c5a1ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\699d1c111cdcb512d18999a0de9e202f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\247cd1bc90f1801215cd8e34c94e7dad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\04813d131dd1c3cf79840c715babf469\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7e3e3e58333e9f0101f462e63c9f7336\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\92bad1093b1ac559e65c26567149f28d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\4043af5fbc258298e1f1d2769cf963ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\106e244d8d5f9d87f9b81f5a427c8dde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\3a236d432529b853eb0af80e1c1be7dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\41ae0101a59bfebd34f328735fe44af9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ca716e790520c5e008a160db6ed22705\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\611265d7f04125618b8a6e9112ce7b62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\dee4d2b111fc4536b1e6799625c6e097\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f633ee34327549cd2d09390c24fe498e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2c3ef01d29ff53f85b6544cf90840005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\e61251267981cb12f9cad7823182b65a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\574a15f772ef3cfec9ab7b950d4eb0cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\6fbd0b4e9007d94d9710e8c2c33d8cc6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2ac67823b97c926f966dae56ac1397e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\083236a6f062b4f6512c79fd45cd80be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d1e33ca6f13c26f0ac6b0fdb973ef9ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\607b0dda6f4b1f7d7c54358ff4eb5e1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\67687f2b95a944bd096bfadf9af92b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ddad07437f46f04586ff27a54ce8b938\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\9c9c7346d9644f749f76ed9923fd8a0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ff6d46340ea9514b871e5760f2cffc79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\421c279bb08fa5a3b0a96da97a445a72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\a2ce35c1f7d7716f390a0dee85137b50\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:1-56:12
+	package
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:12:5-54:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ebfba2c85bd79738ace3cd7428b2736d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ebfba2c85bd79738ace3cd7428b2736d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\6fbd0b4e9007d94d9710e8c2c33d8cc6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\6fbd0b4e9007d94d9710e8c2c33d8cc6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:16:9-40
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:19:9-21:40
+	android:required
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:20:13-50
+activity#com.developer.xyzreader.ui.ArticleListActivity
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:23:9-30:20
+	android:label
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:24:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:28:27-74
+activity#com.developer.xyzreader.ui.ArticleDetailActivity
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:32:9-43:20
+	android:theme
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:33:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.developer.xyzreader.items
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:35:13-39:29
+	tools:ignore
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:35:28-83
+action#android.intent.action.VIEW
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:37:27-73
+data
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:38:17-102
+	android:mimeType
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:38:23-99
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:40:13-42:59
+	android:value
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:42:17-56
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:41:17-63
+service#com.developer.xyzreader.data.UpdaterService
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:46:13-48
+provider#com.developer.xyzreader.data.ItemsProvider
+ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:51:13-58
+	android:exported
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml:50:13-47
+uses-sdk
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7de31c87f5a399cbb609f779ca903930\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7de31c87f5a399cbb609f779ca903930\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d7f3d4462d353643734fce97bae4c68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d7f3d4462d353643734fce97bae4c68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ebfba2c85bd79738ace3cd7428b2736d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ebfba2c85bd79738ace3cd7428b2736d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\99c4a670b117977a586311335c757a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\99c4a670b117977a586311335c757a14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\efde5a4e8c1033b6dc11daafe71d929f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\efde5a4e8c1033b6dc11daafe71d929f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\534cfddf6c0401e14712403abc41ec2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\534cfddf6c0401e14712403abc41ec2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f4c64050b98faf2ad7e3785d6c5a1ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f4c64050b98faf2ad7e3785d6c5a1ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\699d1c111cdcb512d18999a0de9e202f\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\699d1c111cdcb512d18999a0de9e202f\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\247cd1bc90f1801215cd8e34c94e7dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\247cd1bc90f1801215cd8e34c94e7dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\04813d131dd1c3cf79840c715babf469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\04813d131dd1c3cf79840c715babf469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7e3e3e58333e9f0101f462e63c9f7336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\7e3e3e58333e9f0101f462e63c9f7336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\92bad1093b1ac559e65c26567149f28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\92bad1093b1ac559e65c26567149f28d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\4043af5fbc258298e1f1d2769cf963ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\4043af5fbc258298e1f1d2769cf963ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\106e244d8d5f9d87f9b81f5a427c8dde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\106e244d8d5f9d87f9b81f5a427c8dde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\3a236d432529b853eb0af80e1c1be7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\3a236d432529b853eb0af80e1c1be7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\41ae0101a59bfebd34f328735fe44af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\41ae0101a59bfebd34f328735fe44af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ca716e790520c5e008a160db6ed22705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ca716e790520c5e008a160db6ed22705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\611265d7f04125618b8a6e9112ce7b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\611265d7f04125618b8a6e9112ce7b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\dee4d2b111fc4536b1e6799625c6e097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\dee4d2b111fc4536b1e6799625c6e097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f633ee34327549cd2d09390c24fe498e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\f633ee34327549cd2d09390c24fe498e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2c3ef01d29ff53f85b6544cf90840005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2c3ef01d29ff53f85b6544cf90840005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\e61251267981cb12f9cad7823182b65a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\e61251267981cb12f9cad7823182b65a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\574a15f772ef3cfec9ab7b950d4eb0cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\574a15f772ef3cfec9ab7b950d4eb0cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\c2b115eee8b5ba246f5b63813323c5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\6fbd0b4e9007d94d9710e8c2c33d8cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\6fbd0b4e9007d94d9710e8c2c33d8cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2ac67823b97c926f966dae56ac1397e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\2ac67823b97c926f966dae56ac1397e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\083236a6f062b4f6512c79fd45cd80be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\083236a6f062b4f6512c79fd45cd80be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d1e33ca6f13c26f0ac6b0fdb973ef9ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\d1e33ca6f13c26f0ac6b0fdb973ef9ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\607b0dda6f4b1f7d7c54358ff4eb5e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\607b0dda6f4b1f7d7c54358ff4eb5e1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\67687f2b95a944bd096bfadf9af92b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\67687f2b95a944bd096bfadf9af92b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ddad07437f46f04586ff27a54ce8b938\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ddad07437f46f04586ff27a54ce8b938\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\9c9c7346d9644f749f76ed9923fd8a0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\9c9c7346d9644f749f76ed9923fd8a0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ff6d46340ea9514b871e5760f2cffc79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\ff6d46340ea9514b871e5760f2cffc79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\421c279bb08fa5a3b0a96da97a445a72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\421c279bb08fa5a3b0a96da97a445a72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\a2ce35c1f7d7716f390a0dee85137b50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kimyc\.gradle\caches\transforms-2\files-2.1\a2ce35c1f7d7716f390a0dee85137b50\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kimyc\AndroidStudioProjects\Make-Your-App-Material-master\XYZReader\src\main\AndroidManifest.xml
