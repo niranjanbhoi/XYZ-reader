@@ -30,4 +30,4 @@ XYZ Reader: A mock RSS feed reader featuring banner photos and headlines. Link f
 ## Screenshots
 
 ### Screenshots
-<img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/1.jpeg" width="270"><img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/2.jpeg" width="270"><img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/3.jpeg" width="270">
+<img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/1.jpeg" width="270" style="margin-left: 12px"><img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/2.jpeg" width="270" style="margin-left: 12px"><img src="https://github.com/kimycs/XYZ-reader/blob/master/docs/3.jpeg" style="margin-left: 12px" width="270">
